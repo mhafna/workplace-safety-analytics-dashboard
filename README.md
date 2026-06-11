@@ -21,7 +21,7 @@ The dashboard is organized into four analytical pages:
 
 Provides a high-level summary of workplace safety performance through KPI cards and trend analysis.
 
-![Executive Overview](executive-overview.jpg)
+![Executive Overview](assets/executive-overview.jpg)
 
 ---
 
@@ -29,7 +29,7 @@ Provides a high-level summary of workplace safety performance through KPI cards 
 
 Analyzes incident types, injury categories, environmental risks, body parts affected, and human contributing factors.
 
-![Incident Analysis](incident-analysis.jpg)
+![Incident Analysis](assets/incident-analysis.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ Analyzes incident types, injury categories, environmental risks, body parts affe
 
 Examines relationships between incident severity, environmental conditions, and human factors to identify operational risks.
 
-![Risk Patterns & Severity Analysis](risk-analysis.jpg)
+![Risk Patterns & Severity Analysis](assets/risk-analysis.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ Examines relationships between incident severity, environmental conditions, and 
 
 Summarizes key findings and provides actionable recommendations to improve workplace safety performance.
 
-![Strategic Insights & Recommendations](strategic-insights.jpg)
+![Strategic Insights & Recommendations](assets/strategic-insights.jpg)
 
 ---
 
